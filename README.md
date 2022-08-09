@@ -2,7 +2,7 @@
 # Netflix Clone 
 Using TMDB API, Firebase and Tailwind CSS
 
-[Demo]https://my-netflix-clone01.netlify.app/)
+[Demo](https://my-netflix-clone01.netlify.app/)
 
 
 
