@@ -14,7 +14,7 @@ Using TMDB API, Firebase and Tailwind CSS
 npm install
 ```
 
-### Run React dev server (http://localhost:3000)
+### Run React Dev Server 
 
 ```
 npm start
